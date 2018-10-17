@@ -1,0 +1,64 @@
+Okt 13, 2018 12:32:04 AM dasspielv2.Zwischenanwendung main
+INFORMATION: In Main von Zwischenanwendung
+Okt 13, 2018 12:32:04 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:04 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: CONNECT|Yannis;
+Okt 13, 2018 12:32:04 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
+Okt 13, 2018 12:32:04 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:04 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: SPAWN;
+Okt 13, 2018 12:32:04 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: MOVE|5;
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: DIST;
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: Message contains STATUS oder DIST
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im do von readfromserver
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: DRAW|Green;
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: STATUS;
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: Message contains STATUS oder DIST
+Okt 13, 2018 12:32:05 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im do von readfromserver
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im do von readfromserver
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im do von readfromserver
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im do von readfromserver
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: DELETE;
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: im try block vor der ehemaligen while - jetzt nur readline
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: messageFromClient: DISCONNECT;
+Okt 13, 2018 12:32:06 AM dasspielv2.Zwischenanwendung$1 run
+INFORMATION: message sent out
