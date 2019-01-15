@@ -1,2 +1,2 @@
 # DasSpiel-Client
-Java Projekt mit Package für SpielV1 und SpielV2
+Java Projekt Flower Meadow
